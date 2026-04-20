@@ -63,4 +63,4 @@ switchport mode trunk
 ## Pinging The internet
 <img width="660" height="419" alt="Pasted image 20260112041057" src="https://github.com/user-attachments/assets/1d0fe2c5-17a8-4b38-b159-7981cc35dc5a" />
 
-- ``8.8.8.8`` isn't a loopback IP address, we're directly pinging the DNS public IP address from an endhost in VLAN10 in siteA;
+- ``8.8.8.8`` isn't a loopback IP address, we're directly pinging the DNS public IP address from an endhost in VLAN10 in siteA
