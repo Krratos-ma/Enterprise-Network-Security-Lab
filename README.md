@@ -2,7 +2,7 @@
 A comprehensive network infrastructure implemented on the **EVE-NG** platform, featuring a centralized **Active Directory** environment (`LAB.local`), multi-site connectivity, and advanced security enforced by **Palo Alto Firewalls**.
 
 ## 🌐 Topology Overview
-![Network Topology](./topology/image.png) 
+![Network Topology](./topology/topology.png) 
 
 ## 🛠️ Technical Stack
 * **Network Platforms**: EVE-NG, Cisco IOS (Routers & Switches)
