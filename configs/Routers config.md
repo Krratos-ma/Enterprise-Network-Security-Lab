@@ -1,4 +1,4 @@
-<img width="809" height="503" alt="Pasted image 20260112031749" src="https://github.com/user-attachments/assets/2bf011c4-adf1-4df2-993b-66827e733142" />
+<img width="795" height="500" alt="image" src="https://github.com/user-attachments/assets/537ff009-80fb-4eac-b410-35971b00ddaa" />
 
 ---
 ## IP addresses
