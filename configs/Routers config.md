@@ -6,7 +6,7 @@
 ```bash
 # ISP1
 interface f0/0
-	ip address 10.0.1.2 255.255.255.252
+	ip address 11.0.1.2 255.255.255.252
 	no shutdown
 	exit
 interface f1/0
@@ -24,7 +24,7 @@ interface f3/0
 	
 # ISP2
 interface f0/0
-	ip address 10.0.2.2 255.255.255.252
+	ip address 11.0.2.2 255.255.255.252
 	no shutdown
 	exit
 interface f1/0
@@ -38,7 +38,7 @@ interface f2/0
 
 # ISP3
 interface f0/0
-	ip address 10.0.3.2 255.255.255.252
+	ip address 11.0.3.2 255.255.255.252
 	no shutdown
 	exit
 interface f1/0
@@ -56,7 +56,7 @@ interface f3/0
 
 # ISP4
 interface f0/0
-	ip address 10.0.4.2 255.255.255.252
+	ip address 11.0.4.2 255.255.255.252
 	no shutdown
 	exit
 interface f1/0
