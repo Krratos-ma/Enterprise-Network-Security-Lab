@@ -1,4 +1,4 @@
-![[Pasted image 20260112031749.png]]
+<img width="809" height="503" alt="Pasted image 20260112031749" src="https://github.com/user-attachments/assets/2bf011c4-adf1-4df2-993b-66827e733142" />
 
 ---
 ## IP addresses
@@ -122,19 +122,19 @@ ip nat outside
 ## Show commands
 
 ### ISP1
-![[Pasted image 20260112035929.png]]
+<img width="694" height="713" alt="Pasted image 20260112035929" src="https://github.com/user-attachments/assets/587d136b-393f-400c-ba4b-29ae9f67bf78" />
 
 ### ISP2
-![[Pasted image 20260112035529.png]]
+<img width="708" height="699" alt="Pasted image 20260112035529" src="https://github.com/user-attachments/assets/ac5b5276-afa6-450e-a92d-e16396307fdb" />
 
 ### ISP3
-![[Pasted image 20260112035719.png]]
+<img width="745" height="673" alt="Pasted image 20260112035719" src="https://github.com/user-attachments/assets/333f0927-1d62-4f6b-b210-83b20ff6cb46" />
 
 ### ISP4
-![[Pasted image 20260112035840.png]]
+<img width="717" height="653" alt="Pasted image 20260112035840" src="https://github.com/user-attachments/assets/69724189-83b4-40ff-9f8b-1530dc199dea" />
 
 ### Edge-ISP
-![[Pasted image 20260112040601.png]]
+<img width="689" height="554" alt="Pasted image 20260112040601" src="https://github.com/user-attachments/assets/1314568e-0266-4d6c-97b5-04601a0ab4bb" />
 
-![[Pasted image 20260112040658.png]]
+<img width="699" height="467" alt="Pasted image 20260112040658" src="https://github.com/user-attachments/assets/041cbd9f-b007-4fda-9b95-6e6bf973c840" />
 
