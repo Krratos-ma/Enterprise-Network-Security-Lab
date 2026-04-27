@@ -1,4 +1,4 @@
-<img width="457" height="399" alt="Pasted image 20260112023104" src="https://github.com/user-attachments/assets/116faf7b-b162-4136-87e1-1845ee6de4f5" />
+<img width="457" height="398" alt="image" src="https://github.com/user-attachments/assets/94476510-098a-4d3a-af64-699761c579f6" />
 
 ---
 ## MGMT Interface from CLI
@@ -13,7 +13,7 @@ exit
 
 ---
 ## Physical Interfaces
-<img width="1021" height="315" alt="Pasted image 20260112023347" src="https://github.com/user-attachments/assets/300d7dee-0802-4545-b6b1-1c44d79a3c47" />
+<img width="1527" height="140" alt="image" src="https://github.com/user-attachments/assets/e0941634-86d4-4ab1-9768-b03775bfab6b" />
 
 ----
 ## Tunnel Interface
@@ -29,11 +29,15 @@ exit
 
 ---
 ### Default & VPN routes
-<img width="1016" height="352" alt="Pasted image 20260112023852" src="https://github.com/user-attachments/assets/1e80ad90-0ffd-486f-8302-544b6afe981d" />
+<img width="986" height="415" alt="image" src="https://github.com/user-attachments/assets/39550d8e-f719-4fea-8da7-8ae8b8a28a65" />
 
-<img width="591" height="312" alt="Pasted image 20260112023652" src="https://github.com/user-attachments/assets/4c8ae518-a6a8-4d57-bea0-a2c568fb1b21" />
+<img width="745" height="446" alt="image" src="https://github.com/user-attachments/assets/9ddcf891-dc96-4622-8a91-fb82bedb6e3d" />
 
-<img width="590" height="303" alt="Pasted image 20260112023750" src="https://github.com/user-attachments/assets/fd2dab59-051e-49ff-926c-84e1e8f73626" />
+<img width="750" height="426" alt="image" src="https://github.com/user-attachments/assets/583d2b4c-3eda-49b3-ac0a-7c5b57478d78" />
+
+<img width="748" height="421" alt="image" src="https://github.com/user-attachments/assets/f5f2e04f-e51c-4017-9f1c-b9ef9595d8e8" />
+
+<img width="746" height="427" alt="image" src="https://github.com/user-attachments/assets/bb17d1be-fdaf-4627-8bf1-eb9fc5d26c15" />
 
 ---
 ## IPsec VPN
@@ -48,21 +52,26 @@ exit
 <div style="text-align: center;">
 <h2>IKE Gateway</h2>
 </div>
-<img width="594" height="453" alt="Pasted image 20260112023954" src="https://github.com/user-attachments/assets/7f01aa18-b3ea-42be-a3eb-7da253f9857b" />
+<img width="735" height="512" alt="image" src="https://github.com/user-attachments/assets/8d503eaa-2bff-4590-9660-b912539aa069" />
 
 ### IPsec tunnel
 <img width="799" height="309" alt="Pasted image 20260112025906" src="https://github.com/user-attachments/assets/b4a64c34-7999-421b-8c58-3eb1fd6eba47" />
 
+<img width="1688" height="97" alt="image" src="https://github.com/user-attachments/assets/83c5227a-97e8-4ee7-9833-5602c2b0d1ac" />
+
+<img width="1040" height="197" alt="image" src="https://github.com/user-attachments/assets/2fb1fbd4-5914-466b-ac20-96a8b6208d3a" />
+
+
 ---
 ## Policies
-<img width="1027" height="303" alt="Pasted image 20260112030254" src="https://github.com/user-attachments/assets/b9f89ca9-b819-413d-bad1-2eb6969a2f05" />
+<img width="1561" height="179" alt="image" src="https://github.com/user-attachments/assets/964e421b-c2b8-433d-9219-0423d36d2244" />
 
 ---
 ## OSPF
 <img width="1022" height="406" alt="Pasted image 20260112030926" src="https://github.com/user-attachments/assets/db00bfc6-e542-4081-94f8-0efd556e5a49" />
 
 ### OSPF Neighbors
-<img width="1016" height="384" alt="Pasted image 20260112030958" src="https://github.com/user-attachments/assets/23a7795d-ac0c-4f67-b24b-4a16d6373c4b" />
+<img width="990" height="282" alt="image" src="https://github.com/user-attachments/assets/cbe1af96-8d00-49a4-b67e-837c02cbb78f" />
 
 ### Passive interfaces
 <img width="1021" height="481" alt="Pasted image 20260112031547" src="https://github.com/user-attachments/assets/75e1c568-4a04-4aa2-b16a-dd75e1970d54" />
