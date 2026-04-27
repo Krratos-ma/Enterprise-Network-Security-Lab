@@ -149,7 +149,7 @@ passive-interface vlan 30
 
 <img width="659" height="443" alt="Pasted image 20260112034420" src="https://github.com/user-attachments/assets/d805e3af-736c-448d-b260-169d1d0d06ad" />
 
-<img width="654" height="585" alt="Pasted image 20260112034458" src="https://github.com/user-attachments/assets/95b2158e-8921-4651-9521-79f053ce5a8b" />
+<img width="651" height="524" alt="Screenshot 2026-04-28 000023" src="https://github.com/user-attachments/assets/978b72cc-e94f-46e3-9bb0-261b89e9e8ed" />
 
 <img width="697" height="59" alt="Pasted image 20260112034520" src="https://github.com/user-attachments/assets/cb3be0c7-4b11-415d-b5e7-f5e75342a463" />
 
@@ -158,4 +158,4 @@ passive-interface vlan 30
 ### On SW1
 <img width="654" height="605" alt="Pasted image 20260112034921" src="https://github.com/user-attachments/assets/264d2645-b8b0-4774-8347-39f5fce0597f" />
 
-<img width="806" height="630" alt="Pasted image 20260112034941" src="https://github.com/user-attachments/assets/430b3d2c-dff9-4f0f-a67e-58775a69947f" />
+<img width="688" height="597" alt="image" src="https://github.com/user-attachments/assets/7c18fc31-bfe6-4b7a-82cd-f05b22bfb493" />
